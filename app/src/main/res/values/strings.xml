@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActionMode ViewModel</string>
+
+    <string name="action_settings">Settings</string>
+    <!--  Action Mode Menu Items -->
+    <string name="delete">Delete</string>
+    <string name="copy">Copy</string>
+    <string name="forward">Forward</string>
+
+</resources>
