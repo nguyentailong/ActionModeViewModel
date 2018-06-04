@@ -52,6 +52,10 @@ public class MainActivity extends AppCompatActivity implements Callback {
         //1
         //2
         //3
+        System.out.println("Hot Fix 1");
+        System.out.println("Hot Fix 2");
+        System.out.println("Hot Fix 3");
+
     }
 
     public void startActionMode() {
