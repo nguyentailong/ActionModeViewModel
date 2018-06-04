@@ -43,12 +43,23 @@ public class MainActivity extends AppCompatActivity implements Callback {
         adapter.addFrag(new RecyclerViewFragment(), "RecyclerView");
         viewPager.setAdapter(adapter);
         System.out.println("Hello");
+
         System.out.println("Master");
         System.out.println("Master 2");
+
+        System.out.println("Develop");
 
         //1
         //2
         //3
+        System.out.println("Hot Fix 1");
+        System.out.println("Hot Fix 2");
+        System.out.println("Hot Fix 3");
+        //
+        System.out.println("Hot Fix 4");
+        System.out.println("Hot Fix 5");
+
+
     }
 
     public void startActionMode() {
