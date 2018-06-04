@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity implements Callback {
         adapter.addFrag(new ListViewFragment(), "ListView");
         adapter.addFrag(new RecyclerViewFragment(), "RecyclerView");
         viewPager.setAdapter(adapter);
+        System.out.println("Hello");
         //1
         //2
         //3
