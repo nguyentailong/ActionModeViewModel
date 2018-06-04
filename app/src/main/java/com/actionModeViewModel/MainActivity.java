@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity implements Callback {
         viewPager.setAdapter(adapter);
         System.out.println("Hello");
         System.out.println("Master");
+        System.out.println("Master 2");
+
         //1
         //2
         //3
