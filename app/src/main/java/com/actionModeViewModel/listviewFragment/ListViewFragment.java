@@ -44,6 +44,7 @@ public class ListViewFragment extends Fragment {
         listView = view.findViewById(R.id.list_view);
         adapter = new ListViewAdapter(getActivity());
         listView.setAdapter(adapter);
+        //check out 4
         //checkout 3
     }
 
