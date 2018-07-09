@@ -34,6 +34,7 @@ public class ListViewFragment extends Fragment {
         view = inflater.inflate(R.layout.list_view_fragment, container, false);
         populateListView();
         implementListViewClickListeners();
+        //22
         mMainViewModel.getListViewItems().observe(this, adapter::updateData);
         return view;
     }
