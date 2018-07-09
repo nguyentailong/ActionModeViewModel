@@ -44,7 +44,7 @@ public class ListViewFragment extends Fragment {
         listView = view.findViewById(R.id.list_view);
         adapter = new ListViewAdapter(getActivity());
         listView.setAdapter(adapter);
-
+        //checkout 3
     }
 
     //Implement item click and long click over listview
